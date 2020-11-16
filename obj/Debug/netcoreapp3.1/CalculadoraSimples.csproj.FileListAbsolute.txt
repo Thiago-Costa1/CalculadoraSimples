@@ -1,0 +1,13 @@
+C:\Users\washi\OneDrive\Documentos\Técnico Desenvolvimento de Sistemas\1º Termo\Tarde\Backend\Console\CalculadoraSimples\bin\Debug\netcoreapp3.1\CalculadoraSimples.exe
+C:\Users\washi\OneDrive\Documentos\Técnico Desenvolvimento de Sistemas\1º Termo\Tarde\Backend\Console\CalculadoraSimples\bin\Debug\netcoreapp3.1\CalculadoraSimples.deps.json
+C:\Users\washi\OneDrive\Documentos\Técnico Desenvolvimento de Sistemas\1º Termo\Tarde\Backend\Console\CalculadoraSimples\bin\Debug\netcoreapp3.1\CalculadoraSimples.runtimeconfig.json
+C:\Users\washi\OneDrive\Documentos\Técnico Desenvolvimento de Sistemas\1º Termo\Tarde\Backend\Console\CalculadoraSimples\bin\Debug\netcoreapp3.1\CalculadoraSimples.runtimeconfig.dev.json
+C:\Users\washi\OneDrive\Documentos\Técnico Desenvolvimento de Sistemas\1º Termo\Tarde\Backend\Console\CalculadoraSimples\bin\Debug\netcoreapp3.1\CalculadoraSimples.dll
+C:\Users\washi\OneDrive\Documentos\Técnico Desenvolvimento de Sistemas\1º Termo\Tarde\Backend\Console\CalculadoraSimples\bin\Debug\netcoreapp3.1\CalculadoraSimples.pdb
+C:\Users\washi\OneDrive\Documentos\Técnico Desenvolvimento de Sistemas\1º Termo\Tarde\Backend\Console\CalculadoraSimples\obj\Debug\netcoreapp3.1\CalculadoraSimples.csprojAssemblyReference.cache
+C:\Users\washi\OneDrive\Documentos\Técnico Desenvolvimento de Sistemas\1º Termo\Tarde\Backend\Console\CalculadoraSimples\obj\Debug\netcoreapp3.1\CalculadoraSimples.AssemblyInfoInputs.cache
+C:\Users\washi\OneDrive\Documentos\Técnico Desenvolvimento de Sistemas\1º Termo\Tarde\Backend\Console\CalculadoraSimples\obj\Debug\netcoreapp3.1\CalculadoraSimples.AssemblyInfo.cs
+C:\Users\washi\OneDrive\Documentos\Técnico Desenvolvimento de Sistemas\1º Termo\Tarde\Backend\Console\CalculadoraSimples\obj\Debug\netcoreapp3.1\CalculadoraSimples.csproj.CoreCompileInputs.cache
+C:\Users\washi\OneDrive\Documentos\Técnico Desenvolvimento de Sistemas\1º Termo\Tarde\Backend\Console\CalculadoraSimples\obj\Debug\netcoreapp3.1\CalculadoraSimples.dll
+C:\Users\washi\OneDrive\Documentos\Técnico Desenvolvimento de Sistemas\1º Termo\Tarde\Backend\Console\CalculadoraSimples\obj\Debug\netcoreapp3.1\CalculadoraSimples.pdb
+C:\Users\washi\OneDrive\Documentos\Técnico Desenvolvimento de Sistemas\1º Termo\Tarde\Backend\Console\CalculadoraSimples\obj\Debug\netcoreapp3.1\CalculadoraSimples.genruntimeconfig.cache
